@@ -70,3 +70,4 @@ workflows:
   angular-chile-pipeline:
     jobs:
       - linter
+      - unit-tests
